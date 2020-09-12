@@ -1,0 +1,7 @@
+11.34 inches, solder to ground wire
+
+dipole
+20ga - 26ga is okay
+~6.5inches on both. put 1 on ground, 1 on ant
+
+parallel, receiver and transmitter
